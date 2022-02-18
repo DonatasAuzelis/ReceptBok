@@ -1,0 +1,131 @@
+{
+    "html_attributions": [],
+    "next_page_token": "some token",
+    "results": [
+    {
+        "id": 1,
+        "name": "Rowdy Texas Burger",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Lunch",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2019/06/top-view-for-box-of-2-burgers-home-made-600x899.jpg"]
+    },
+    {
+        "id": 2,
+        "name": "Amerikanska Pannkakor",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Frukost",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-pancakes-819x1024.jpg"]
+    },{
+        "id": 3,
+        "name": "Pulled Pork Tacos",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Lunch",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2020/09/tacos-with-pulled-pork-fresh-vegetables-and-cream-768x1024.jpg"]
+    },{
+        "id": 4,
+        "name": "Nudlar med Ägg och Grönsaker",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Lunch",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-noodles-vegetables-egg-819x1024.jpg"]
+     },{
+        "id": 5,
+        "name": "Ägg Toast",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Frukost",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2021/01/fried-egg-and-guacamole-sandwiches-819x1024.jpg"]
+     },{
+        "id": 6,
+        "name": "Pork Ribs",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Middag",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2020/05/costela-de-porco-assada-1-1024x683.jpg"]
+     },{
+        "id": 7,
+        "name": "Bär",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Frukost",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2019/05/colorful-healthy-fresh-berries-in-a-cup-1-683x1024.jpg"]
+     },{
+        "id": 8,
+        "name": "Jordgubbstårta",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Dessert",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2020/08/detail-of-pavlova-strawberry-piece-of-cake-768x1024.jpg"]
+     },{
+        "id": 9,
+        "name": "Gudomlig Pizza",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Middag",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2019/02/pizza-ready-for-baking-1024x683.jpg"]
+     },{
+        "id": 10,
+        "name": "Tiramisu med Bär",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Dessert",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2021/08/tiramisu-1024x1024.jpg"]
+     },{
+        "id": 11,
+        "name": "Kiwi och Banan Smoothie",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Dessert",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2020/04/three-layer-smoothie-from-banana-kiwi-and-strawberry-on-a-wooden-background-683x1024.jpg"]
+     },{
+        "id": 12,
+        "name": "Hembakat Surdegsbröd",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Frukost",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2021/01/homemade-artisan-sourdough-bread-819x1024.jpg"]
+     },{
+        "id": 13,
+        "name": "Grillad Fisk med Potatis",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Middag",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2021/04/fish-1024x683.jpg"]
+     },{
+        "id": 14,
+        "name": "Klassik Pumpasoppa",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Middag",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2021/01/pumpkin-soup-819x1024.jpg"]
+     },{
+        "id": 15,
+        "name": "Rå Lax",
+        "description": "Lika vacker som god är Adams rätt på temat där rätten görs med (något) och (något) får smak av (något gott). Allt toppas med (något), (något) och ännu mer (något) i form av (något).",
+        "category": "Middag",
+        "ingredients": ["2kg Ingrediens 1", "100ml Ingrediens 2", "2st Ingrediens 3", "50g Ingrediens 4"],
+        "cookingSteps": ["Blanda", "Smörja", "Steka", "Sätt i ugn i 20min","Ät och bli mätt!"],
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2022/01/raw-salmon-steak-on-black-board-1024x768.jpg"]
+     }
+    ],
+    "status": "OK"
+
+}
+
